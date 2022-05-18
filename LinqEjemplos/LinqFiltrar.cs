@@ -4,7 +4,8 @@ using System.Text;
 
 namespace LinqEjemplos
 {
-    internal class LinqFiltrar
+    public class LinqFiltrar
     {
+
     }
 }
