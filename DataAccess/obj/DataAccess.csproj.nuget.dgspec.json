@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucia\\source\\repos\\LinqEjemplos\\DataAccess\\DataAccess.csproj": {}
+    "F:\\repos\\LinqEjemplos\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucia\\source\\repos\\LinqEjemplos\\DataAccess\\DataAccess.csproj": {
+    "F:\\repos\\LinqEjemplos\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucia\\source\\repos\\LinqEjemplos\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "F:\\repos\\LinqEjemplos\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\lucia\\source\\repos\\LinqEjemplos\\DataAccess\\DataAccess.csproj",
+        "projectPath": "F:\\repos\\LinqEjemplos\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucia\\source\\repos\\LinqEjemplos\\DataAccess\\obj\\",
+        "outputPath": "F:\\repos\\LinqEjemplos\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",

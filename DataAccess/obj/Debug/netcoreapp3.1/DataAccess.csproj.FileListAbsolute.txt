@@ -1,0 +1,10 @@
+F:\repos\LinqEjemplos\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+F:\repos\LinqEjemplos\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+F:\repos\LinqEjemplos\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+F:\repos\LinqEjemplos\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+F:\repos\LinqEjemplos\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\LinqEjemplos\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+F:\repos\LinqEjemplos\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+F:\repos\LinqEjemplos\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+F:\repos\LinqEjemplos\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+F:\repos\LinqEjemplos\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb

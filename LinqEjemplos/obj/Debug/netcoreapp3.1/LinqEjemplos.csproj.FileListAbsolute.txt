@@ -1,0 +1,17 @@
+F:\repos\LinqEjemplos\LinqEjemplos\bin\Debug\netcoreapp3.1\LinqEjemplos.exe
+F:\repos\LinqEjemplos\LinqEjemplos\bin\Debug\netcoreapp3.1\LinqEjemplos.deps.json
+F:\repos\LinqEjemplos\LinqEjemplos\bin\Debug\netcoreapp3.1\LinqEjemplos.runtimeconfig.json
+F:\repos\LinqEjemplos\LinqEjemplos\bin\Debug\netcoreapp3.1\LinqEjemplos.runtimeconfig.dev.json
+F:\repos\LinqEjemplos\LinqEjemplos\bin\Debug\netcoreapp3.1\LinqEjemplos.dll
+F:\repos\LinqEjemplos\LinqEjemplos\bin\Debug\netcoreapp3.1\LinqEjemplos.pdb
+F:\repos\LinqEjemplos\LinqEjemplos\bin\Debug\netcoreapp3.1\DataAccess.dll
+F:\repos\LinqEjemplos\LinqEjemplos\bin\Debug\netcoreapp3.1\DataAccess.pdb
+F:\repos\LinqEjemplos\LinqEjemplos\obj\Debug\netcoreapp3.1\LinqEjemplos.csproj.AssemblyReference.cache
+F:\repos\LinqEjemplos\LinqEjemplos\obj\Debug\netcoreapp3.1\LinqEjemplos.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\LinqEjemplos\LinqEjemplos\obj\Debug\netcoreapp3.1\LinqEjemplos.AssemblyInfoInputs.cache
+F:\repos\LinqEjemplos\LinqEjemplos\obj\Debug\netcoreapp3.1\LinqEjemplos.AssemblyInfo.cs
+F:\repos\LinqEjemplos\LinqEjemplos\obj\Debug\netcoreapp3.1\LinqEjemplos.csproj.CoreCompileInputs.cache
+F:\repos\LinqEjemplos\LinqEjemplos\obj\Debug\netcoreapp3.1\LinqEjemplos.csproj.CopyComplete
+F:\repos\LinqEjemplos\LinqEjemplos\obj\Debug\netcoreapp3.1\LinqEjemplos.dll
+F:\repos\LinqEjemplos\LinqEjemplos\obj\Debug\netcoreapp3.1\LinqEjemplos.pdb
+F:\repos\LinqEjemplos\LinqEjemplos\obj\Debug\netcoreapp3.1\LinqEjemplos.genruntimeconfig.cache

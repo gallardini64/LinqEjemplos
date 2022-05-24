@@ -11,14 +11,14 @@ namespace LinqEjemplos
         {
         }
 
-        public IEnumerable<Empleado> OrdenarComoSql(List<Empleado> empleados)
+        public IEnumerable<Empleado> ComoSql(List<Empleado> empleados)
         {
             var resultado = from empleado in empleados
                                        orderby empleado.Legajo
                                        select empleado;
             return resultado;
         }
-        public IEnumerable<Empleado> OrdenarFuncionFlecha(List<Empleado> empleados)
+        public IEnumerable<Empleado> FuncionFlecha(List<Empleado> empleados)
         {
             var resultado = empleados.OrderBy(empleado => empleado.Legajo);
             return resultado;

@@ -7,5 +7,6 @@ namespace DataAccess
     public interface IRepository
     {
         public IEnumerable<Empleado> GetAll();
+        public IEnumerable<Equipo> GetAllEquipos();
     }
 }
