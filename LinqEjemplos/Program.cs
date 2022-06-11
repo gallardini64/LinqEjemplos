@@ -9,9 +9,14 @@ namespace LinqEjemplos
     {
         static void Main(string[] args)
         {
+            var empleado = new Empleado();
+            Console.WriteLine(empleado.Edad.ToString());
+            Console.ReadKey();
             //IRepository repository = new Repository();
-            //var ejemplo = new LinqGroupJoin();
-            //ejemplo.FuncionFlecha(repository.GetAll().ToList(),repository.GetAllEquipos().ToList());
+            //var ejemplo = new LinqOrdenar();
+            //#region Join
+            ////ejemplo.FuncionFlecha(repository.GetAll().ToList(),repository.GetAllEquipos().ToList());
+            //#endregion
             //Mostrar(repository.GetAll(), "Antes:");
             //var resultado = ejemplo.ComoSql(repository.GetAll().ToList());
             //Mostrar(resultado, "Despues:");

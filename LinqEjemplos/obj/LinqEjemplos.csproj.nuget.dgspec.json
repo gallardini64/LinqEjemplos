@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\repos\\LinqEjemplos\\LinqEjemplos\\LinqEjemplos.csproj": {}
+    "C:\\Users\\lucia\\source\\repos\\LinqEjemplos\\LinqEjemplos\\LinqEjemplos.csproj": {}
   },
   "projects": {
-    "F:\\repos\\LinqEjemplos\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\lucia\\source\\repos\\LinqEjemplos\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\repos\\LinqEjemplos\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\lucia\\source\\repos\\LinqEjemplos\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "F:\\repos\\LinqEjemplos\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\lucia\\source\\repos\\LinqEjemplos\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-        "outputPath": "F:\\repos\\LinqEjemplos\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\lucia\\source\\repos\\LinqEjemplos\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "F:\\repos\\LinqEjemplos\\LinqEjemplos\\LinqEjemplos.csproj": {
+    "C:\\Users\\lucia\\source\\repos\\LinqEjemplos\\LinqEjemplos\\LinqEjemplos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\repos\\LinqEjemplos\\LinqEjemplos\\LinqEjemplos.csproj",
+        "projectUniqueName": "C:\\Users\\lucia\\source\\repos\\LinqEjemplos\\LinqEjemplos\\LinqEjemplos.csproj",
         "projectName": "LinqEjemplos",
-        "projectPath": "F:\\repos\\LinqEjemplos\\LinqEjemplos\\LinqEjemplos.csproj",
+        "projectPath": "C:\\Users\\lucia\\source\\repos\\LinqEjemplos\\LinqEjemplos\\LinqEjemplos.csproj",
         "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-        "outputPath": "F:\\repos\\LinqEjemplos\\LinqEjemplos\\obj\\",
+        "outputPath": "C:\\Users\\lucia\\source\\repos\\LinqEjemplos\\LinqEjemplos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "F:\\repos\\LinqEjemplos\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "F:\\repos\\LinqEjemplos\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\lucia\\source\\repos\\LinqEjemplos\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\lucia\\source\\repos\\LinqEjemplos\\DataAccess\\DataAccess.csproj"
               }
             }
           }

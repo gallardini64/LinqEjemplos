@@ -20,7 +20,8 @@ namespace LinqEjemplos
         }
         public IEnumerable<Empleado> FuncionFlecha(List<Empleado> empleados)
         {
-            var resultado = empleados.OrderBy(empleado => empleado.Legajo);
+            var resultado = empleados.OrderBy(empleado => empleado.Legajo)
+                                .ThenBy(empleado => empleado.Nombre);
             return resultado;
         }
     }
